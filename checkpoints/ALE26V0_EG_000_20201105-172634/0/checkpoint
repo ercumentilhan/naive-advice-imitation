@@ -1,0 +1,2 @@
+model_checkpoint_path: "/data/home/acw429/Runs-AA/Checkpoints/ALE26V0_EG_000_20201105-172634/0/model-10000000.ckpt"
+all_model_checkpoint_paths: "/data/home/acw429/Runs-AA/Checkpoints/ALE26V0_EG_000_20201105-172634/0/model-10000000.ckpt"
