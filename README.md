@@ -1,6 +1,6 @@
 # Naive Advice Imitation
 
-This repository contains the source code for the advice imitation algorithm proposed in the paper titled ["Student-Initiated Action Advising via Advice Novelty"](http://diego-perez.net/papers/ActionAdvising_AAMAS21.pdf).
+This repository contains the source code for the advice imitation algorithm proposed in the paper titled ["Student-Initiated Action Advising via Advice Novelty"](https://arxiv.org/abs/2104.08441).
 
 ## Requirements
 
